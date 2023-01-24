@@ -19,6 +19,7 @@ console.log(globalScope)
 
 // local and global function
 function GlobalFunction(){
+    var name=
     console.log('Global function')
     function local(){
         console.log('Local Function')
